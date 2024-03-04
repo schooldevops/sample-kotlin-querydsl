@@ -1,0 +1,21 @@
+### GET
+GET http://localhost:8089/v1/users
+
+### POST
+POST http://localhost:8089/v1/users
+Content-Type: application/json
+
+{
+  "name": "kido",
+  "email": "kido@gail.com"
+}
+
+
+### POST
+POST http://localhost:8089/v1/users
+Content-Type: application/json
+
+{
+  "name": "kido2",
+  "email": "kido2@gail.com"
+}

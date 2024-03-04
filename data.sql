@@ -1,0 +1,5 @@
+insert into user(user_id, name, email) values (1, "kido", "bae")
+insert into user(user_id, name, email) values (1, "kido", "bae")
+insert into user(user_id, name, email) values (1, "kido", "bae")
+insert into user(user_id, name, email) values (1, "kido", "bae")
+insert into user(user_id, name, email) values (1, "kido", "bae")

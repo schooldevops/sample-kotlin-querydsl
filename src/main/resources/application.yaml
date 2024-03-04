@@ -1,0 +1,15 @@
+server:
+  port: 8089
+spring:
+  jpa:
+    properties:
+      hibernate:
+        globally_quoted_identifiers: true
+  datasource:
+    url: jdbc:h2:mem:sbipdb;DB_CLOSE_ON_EXIT=FALSE
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: password
+  h2:
+    console:
+      enabled: true
